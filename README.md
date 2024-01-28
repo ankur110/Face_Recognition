@@ -27,6 +27,9 @@ __5.__ __Python Dictionary for Storage:__
 __6.__ __Model Training and Recognition Workflow:__
 * Provides a seamless workflow for training the face recognition model using the generated embeddings and subsequently recognizing faces in new images.
 
+## If you see 'Unable to render code block':
+* ## __Please download the Notebook__
+
 
 ## Prerequisites and Dependencies
 
@@ -49,3 +52,4 @@ pip install opencv-python numpy matplotlib torch torchvision mtcnn facenet-pytor
 ```bash
 !pip install opencv-python numpy matplotlib torch torchvision mtcnn facenet-pytorch
 ```
+
